@@ -30,5 +30,5 @@ while restart:
 
     restart = str(input("Type yes to restart and no to end: "))
     if restart == "no":
-        print("Thank you for playing")
+        print("Thank you for playing. :)")
         exit()
