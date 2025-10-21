@@ -1,6 +1,6 @@
 # Caeser-Cipher
 
-A tiny project built with Python.
+A tiny project built with Python that encrypts and decrypts text using the classic Caesar shift
 
 FEATURES:
 
