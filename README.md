@@ -5,6 +5,7 @@ A tiny project built with Python that encrypts and decrypts text using the class
 FEATURES:
 
 > Encrypt/decrypt with configurable shift (negatives allowed)
+
 > Punctuation/whitespace passes through 
 
 FUTURE PLANS:
