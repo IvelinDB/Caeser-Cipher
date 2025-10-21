@@ -9,4 +9,4 @@ FEATURES:
 
 FUTURE PLANS:
 
-> Preserve original casing (keep capitals intact after encrypt/decrypt)
+> Preserve original casing (keep capitals the same after encrypt/decrypt)
